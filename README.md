@@ -1,1 +1,1 @@
-stock bussy is a ai based stock assistant which helps minimize investment risks
+stock bussy is an ai based stock assistant which helps minimize investment risks
